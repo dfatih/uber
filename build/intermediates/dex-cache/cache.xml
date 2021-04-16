@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Tutorials\Der komplette Android Entwickler\Uber\Uber\Uber\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Tutorials\Der komplette Android Entwickler\Uber\Uber\Uber\build\intermediates\pre-dexed\debug\classes-4d5ad2cb5919d7368354f41a1a37de915cd38d97.jar" />
+    </item>
+    <item
+        jar="D:\Tutorials\Der komplette Android Entwickler\Uber\Uber\Uber\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Tutorials\Der komplette Android Entwickler\Uber\Uber\Uber\build\intermediates\pre-dexed\debug\classes-f4570c6f1e217c13fa7235cf8f4e0910af0641a1.jar" />
+    </item>
+
+</items>
